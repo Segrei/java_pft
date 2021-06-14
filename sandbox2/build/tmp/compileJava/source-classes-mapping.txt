@@ -2,5 +2,9 @@ ru/stqa/pft/sandbox2/Rectangle.java
  ru.stqa.pft.sandbox2.Rectangle
 ru/stqa/pft/sandbox2/Square.java
  ru.stqa.pft.sandbox2.Square
+ru/stqa/pft/sandbox2/Point.java
+ ru.stqa.pft.sandbox2.Point
+ru/stqa/pft/sandbox2/Point2.java
+ ru.stqa.pft.sandbox2.Point2
 ru/stqa/pft/sandbox2/MyFirstProgram.java
  ru.stqa.pft.sandbox2.MyFirstProgram
